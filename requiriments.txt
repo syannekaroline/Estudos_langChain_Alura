@@ -1,0 +1,6 @@
+# --- Conteúdo do arquivo requirements.txt ---
+
+google-genai
+langchain
+python-dotenv
+langchain-google-genai

@@ -1,0 +1,20 @@
+# Ambiente virtual
+langchain/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
